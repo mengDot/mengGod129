@@ -1,9 +1,4 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<img 
-    align="right" 
-    style="pointer-events:none;" 
-    src="https://github-readme-stats.vercel.app/api?username=mengGod129&show_icons=true&icon_color=E65A65&hide_title=true&hide_border=true" 
-/>
 ![mengGod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mengGod129&show_icons=true)
 ### Hello World! I am <b><a target="_blank" href="javascript:;">mengGod</a></b>.
 
@@ -20,5 +15,4 @@
 </a>
 
 ---
-![mengGod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mengGod129&show_icons=true)
 <img src="https://imgur.com/rilHVxA.png"/>
