@@ -1,5 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<img src="[https://i.imgur.com/A6bWGFl.gif](https://github-readme-stats.vercel.app/api?username=mengGod129&show_icons=true)"/>
+<imgalign="right"style="pointer-events:none;"src="https://github-readme-stats.vercel.app/api?username=mengGod129&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mengGod129&show_icons=true"/>
 ### Hello World! I am <b><a target="_blank" href="javascript:;">mengGod</a></b>.
 
 - :hearts: Passionate about open source software. 
